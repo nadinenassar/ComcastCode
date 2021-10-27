@@ -1,4 +1,5 @@
 # ComcastCode
+NB: Please Access the Test.java code for the submission for easy copy and past testing
 Exercise: Given a List of Strings replace '&' with "and":
 *   * For example:  *   
 *   * Tromeo &amp; Juliet  
